@@ -101,7 +101,7 @@
     opacity: 0.9;
 }
 body {
-    font-family: "Roboto", sans-serif;
+    font-family: "montserrat", sans-serif;
     font-weight: normal;
     font-style: normal;
 }
@@ -111,7 +111,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Josefin Sans", sans-serif;
+    font-family: "montserrat", sans-serif, bold;
     color: #0b1c39;
     margin-top: 0px;
     font-style: normal;
@@ -119,7 +119,7 @@ h6 {
     text-transform: normal;
 }
 p {
-    font-family: "Roboto", sans-serif;
+    font-family: "montserrat", sans-serif;
     color: #777;
     font-size: 16px;
     line-height: 30px;
@@ -127,7 +127,7 @@ p {
     font-weight: normal;
 }
 span {
-    font-family: "Josefin Sans", sans-serif;
+    font-family: "Montserrat", sans-serif;
 }
 .bg-img-1 {
     background-image: url(../img/slider/slider-img-1.jpg);
@@ -313,7 +313,7 @@ input:focus::-moz-placeholder {
 }
 .btn {
     background: #ff2020;
-    font-family: "Josefin Sans", sans-serif;
+    font-family: "Montserrat", sans-serif;
     text-transform: uppercase;
     color: #fff;
     font-size: 16px;
@@ -2106,7 +2106,7 @@ input:focus {
     color: #556172;
     text-transform: capitalize;
     line-height: 30px;
-    font-family: "Poppins", sans-serif;
+    font-family: "Montserrat", sans-serif;
 }
 @media (max-width: 576px) {
     .section_tittle p {
@@ -2301,7 +2301,7 @@ input:focus {
 }
 .header-area .main-header .menu-wrapper .main-menu ul li a {
     font-size: 16px;
-    font-family: "Josefin Sans", sans-serif;
+    font-family: "Montserrat", sans-serif;
     color: #141517;
     font-weight: 600;
     padding: 41px 21px;
