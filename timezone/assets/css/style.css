@@ -101,21 +101,28 @@
     opacity: 0.9;
 }
 body {
-    font-family: "montserrat", sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: normal;
     font-style: normal;
 }
-h1,
+h1 {
+    font-family: "Montserrat", sans-serif, bold;
+    color: #eb3344;
+    margin-top: 0px;
+    font-style: normal;;
+    text-transform: normal;
+}
+
 h2,
 h3,
 h4,
 h5,
 h6 {
     font-family: "montserrat", sans-serif, bold;
-    color: #0b1c39;
+    color: #000;
     margin-top: 0px;
     font-style: normal;
-    font-weight: 500;
+    font-weight: 300;
     text-transform: normal;
 }
 p {
@@ -3458,7 +3465,7 @@ input:focus {
     writing-mode: vertical-lr;
     transform: rotate(180deg);
     font-size: 117px;
-    font-family: "Roboto", sans-serif;
+    font-family: "montserrat", sans-serif;
     font-weight: 700;
     text-transform: uppercase;
     -webkit-text-stroke: 1px #e6dfc6;
@@ -3533,13 +3540,13 @@ input:focus {
 }
 .best-collection-area .best-right-cap .best-single .single-cap.active h4 {
     color: #fff;
-    font-family: "Roboto", sans-serif;
+    font-family: "montserrat", sans-serif;
 }
 .best-collection-area .best-right-cap .best-single .single-cap h4 {
     color: #000000;
     font-size: 18px;
     line-height: 1.6;
-    font-family: "Roboto", sans-serif;
+    font-family: "montserrat", sans-serif;
 }
 .best-collection-area .best-right-cap .best-single .single-img {
     padding-left: 25px;
@@ -9558,8 +9565,12 @@ input:focus {
     font-weight: 500;
     text-transform: capitalize;
 }
+
 @media (max-width: 991px) {
     .breadcrumb_part .breadcrumb_iner h2 {
         font-size: 30px;
     }
 }
+.hr.style8 {
+	border-top: 1px solid #000;
+	border-bottom: 1px solid #fff;
