@@ -9574,3 +9574,14 @@ input:focus {
 .hr.style8 {
 	border-top: 1px solid #000;
 	border-bottom: 1px solid #fff;
+}
+
+#progress {
+    background-color: #eb3344;
+    height: 3px;
+    width: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+}
