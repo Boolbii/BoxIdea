@@ -3755,8 +3755,8 @@ input:focus {
     padding-right: 0;
 }
 .footer-social a i {
-    color: #222222;
-    font-size: 14px;
+    color: blue;
+    font-size: 30px;
     padding: 5px 10px;
     -webkit-transition: all 0.4s ease-out 0s;
     -moz-transition: all 0.4s ease-out 0s;
@@ -3770,7 +3770,7 @@ input:focus {
     -o-transform: rotateY(0deg);
 }
 .footer-social a i:hover {
-    color: #ff2020;
+    color: blue;
     transform: rotateY(180deg);
     -webkit-transform: rotateY(180deg);
     -moz-transform: rotateY(180deg);
