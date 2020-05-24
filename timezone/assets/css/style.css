@@ -9630,10 +9630,11 @@ input:focus {
     border: none;
     background: none;
     outline: none;
-    float: left;
+    float: center;
     padding: 0;
+    font-weight: bold;
     color: white;
-    font-size: 16px;
+    font-size: 14px;
     transition: 0.4s;
     line-height: 0px;
     width: 0px;
