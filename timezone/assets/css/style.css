@@ -9592,12 +9592,13 @@ input:focus {
 /* Search bar */
 
 .search-box {
-    position: right;
+    justify-content: space-between;
+    position: center;
     top: 50%;
     left: 70%;
-    transform: translate(-50%,-50%);
+    transform: fixed(-50%,-50%);
     background: #2f3640;
-    height: 40px;
+    height: 30px;
     border-radius: 40px;
     padding: 0px;
     
@@ -9605,7 +9606,7 @@ input:focus {
 
 .search-box:hover > .search-txt {
     width: 240px;
-    padding: 0 6px;
+    padding: 6px;
 }
 
 .search-box:hover > .search-btn {
@@ -9615,8 +9616,8 @@ input:focus {
 .search-btn {
     color: #e84118;
     float: right;
-    width: 40px;
-    height: 40px;
+    width: 30px;
+    height: 30px;
     border-radius: 50%;
     background: #2f3640;
     display: flex;
