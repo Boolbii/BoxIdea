@@ -3712,7 +3712,7 @@ input:focus {
     margin-bottom: 29px;
     font-weight: 500;
     text-transform: capitalize;
-    font-family: "Roboto", sans-serif;
+    font-family: "montserrat", sans-serif;
 }
 .footer-area .footer-tittle ul li {
     color: #012f5f;
@@ -5056,7 +5056,7 @@ input:focus {
     cursor: pointer;
     display: block;
     float: left;
-    font-family: "Roboto", sans-serif;
+    font-family: "montserrat", sans-serif;
     font-weight: normal;
     width: 100% !important;
     line-height: 50px;
@@ -6228,7 +6228,7 @@ del {
     text-align: center;
     background-color: #fff;
     font-size: 15px;
-    font-family: "Poppins", sans-serif;
+    font-family: "montserrat", sans-serif;
     font-weight: 500;
     color: #1e1e1e;
     -o-transition: all 0.4s ease-in-out;
@@ -6355,7 +6355,7 @@ del {
 .blog-area .single-blog .blog-caption .blog-cap-top ul li {
     color: #c7c7c7;
     font-size: 14px;
-    font-family: "Lato", sans-serif;
+    font-family: "montserrat", sans-serif;
 }
 .blog-area .single-blog .blog-caption .blog-cap-top ul li a {
     color: #ff2020;
@@ -6364,7 +6364,7 @@ del {
 .blog-area .single-blog .blog-caption .blog-cap-mid p a {
     color: #444444;
     font-size: 18px;
-    font-family: "Lato", sans-serif;
+    font-family: "montserrat", sans-serif;
     line-height: 28px;
     margin-bottom: 30px;
 }
@@ -7186,7 +7186,7 @@ input:focus {
     color: #828bb2;
 }
 .single-product .product-btm span {
-    font-family: "Poppins", sans-serif;
+    font-family: "montserrat", sans-serif;
     font-size: 20px;
     font-weight: 500;
     line-height: 16px;
