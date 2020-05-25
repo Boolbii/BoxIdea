@@ -124,8 +124,11 @@ h6 {
     font-style: normal;
     font-weight: 300;
     text-transform: normal;
+    
 }
-
+.search-box{
+    margin-right: 15px;
+}
 p {
     font-family: "montserrat", sans-serif;
     color: #777;
