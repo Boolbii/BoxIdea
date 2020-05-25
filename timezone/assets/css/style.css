@@ -2638,8 +2638,8 @@ input:focus {
 }
 .slider-area .hero__caption h1 {
     text-transform: normal;
-    font-size: 96px;
-    font-weight: 700;
+    font-size: 50px !important;
+    font-weight: 300 !important;
     line-height: 1.2;
     margin-bottom: 26px;
 }
