@@ -3210,6 +3210,7 @@ input:focus {
 }
 .shop-method-area .method-wrapper {
     background: #ea0000;
+    margin-bottom: 20px;
 }
 .shop-method-area .method-wrapper .single-method {
     padding: 43px 20px 0 45px;
@@ -9601,7 +9602,6 @@ input:focus {
     height: 30px;
     border-radius: 40px;
     padding: 0px;
-    
 }
 
 .search-box:hover > .search-txt {
@@ -9643,3 +9643,6 @@ input:focus {
     
 }
 
+.footer-area{
+    background: #E0E0E0;
+}
