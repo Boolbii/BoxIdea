@@ -9602,6 +9602,7 @@ input:focus {
     height: 30px;
     border-radius: 40px;
     padding: 0px;
+    margin-right: 15px;
 }
 
 .search-box:hover > .search-txt {
